@@ -1,0 +1,70 @@
+Introduction :
+
+Snakes and Ladders, known originally as Moksha Patam, is an ancient Indian board game for two or more players regarded today as a worldwide classic.
+It is played on a game board with numbered, gridded squares. A number of "ladders" and "snakes" are pictured on the board,
+each connecting two specific board squares. The object of the game is to navigate one's game piece, according to die rolls,
+from the start (bottom square) to the finish (top square), helped by climbing ladders but hindered by falling down snakes.
+
+What is the purpose of Snakes and Ladders:
+
+The object of the game is to navigate one's game piece, according to die rolls, from the start (bottom square) to the finish (top square),
+helped by climbing ladders but hindered by falling down snakes. The game is a simple race based on sheer luck, and it is popular with young children.
+
+How Many snakes in the board :
+
+Ten snakes in the Board. There are various variants of the 10x10 game in circulation, here is description of the board used for my experiments.
+There are nine ladders and ten snakes.
+
+Equipment :
+
+The size of the grid varies, but is most commonly 8×8, 10×10 or 12×12 squares. Boards have snakes and ladders starting and ending on different squares;
+both factors affect the duration of play. Each player is represented by a distinct game piece token. A single die is rolled to determine random movement
+of a player's token in the traditional form of play; two dice may be used for a shorter game.
+
+Gameplay :
+
+Milton Bradley Chutes and Ladders gameboard c. 1952. The illustrations show good deeds and their rewards; bad deeds and their consequences.
+Each player starts with a token on the starting square (usually the "1" grid square in the bottom left corner, or simply, off the board next
+to the "1" grid square). Players take turns rolling a single die to move their token by the number of squares indicated by the die roll.
+Tokens follow a fixed route marked on the gameboard which usually follows a boustrophedon (ox-plow) track from the bottom to the top of the playing area,
+passing once through every square. If, on completion of a move, a player's token lands on the lower-numbered end of a "ladder", the player moves the
+token up to the ladder's higher-numbered square. If the player lands on the higher-numbered square of a "snake" (or chute), the token must be moveddown to
+the snake's lower-numbered square.
+
+If a 6 is rolled the player, after moving, immediately rolls again for another turn; otherwise play passes to the next player in turn. The player who is
+first to bring their token to the last square of the track is the winner.
+
+
+Variations :
+
+Variants exists where a player must roll the exact number to reach the final square. Depending on the variation, if the die roll is too large, the token
+either remains in place or goes off the final square and back again. (For example, if a player requiring a 3 to win rolls a 5, the token moves forward
+three spaces, then back two spaces.) In certain circumstances (such as a player rolling a 5 when a 1 is required to win), a player can end up further away
+from the final square after their move, than before it.
+
+In the book Winning Ways the authors propose a variant which they call Adders-and-Ladders which, unlike the original game, involves skill. Instead of tokens
+for each player, there is a store of indistinguishable tokens shared by all players. The illustration has five tokens (and a five by five board).
+There is no die to roll; instead, the player chooses any token and moves it one to four spaces. Whoever moves the last token to the Home space (i.e. the last number)
+wins.
+
+
+Mathematics of the game :
+
+The cumulative probability of finishing a game of Snakes and Ladders by turn N
+Any version of Snakes and Ladders can be represented exactly as an absorbing Markov chain, since from any square the odds of moving to any other square are
+fixed and independent of any previous game history.[5] The Milton Bradley version of Chutes and Ladders has 100 squares, with 19 chutes and ladders.
+A player will need an average of 39.2 spins to move from the starting point, which is off the board, to square 100. A two-player game is expected to end
+in 47.76 moves with a 50.9% chance of winning for the first player.[20] These calculations are based on a variant where throwing a six does not lead to an
+additional roll; and where the player must roll the exact number to reach square 100 and if they overshoot it their counter does not move.
+
+
+Rules:
+      1. Initally both the players are at starting position i.e. 0. 
+         Take it in turns to roll the dice. 
+         Move forward the number of spaces shown on the dice.
+      2. If you lands at the bottom of a ladder, you can move up to the top of the ladder.
+      3. If you lands on the head of a snake, you must slide down to the bottom of the snake.
+      4. The first player to get to the FINAL position is the winner.
+      5. Hit enter to roll the dice.
+
+
